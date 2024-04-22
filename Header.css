@@ -1,0 +1,20 @@
+/* Section.css 
+*/
+
+section{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  margin-top: 30px;
+  margin-right: 50px;
+  margin-left: 30px;
+ 
+  
+}
+.lefts img{
+  border-radius: 10%;
+  height: 350px;
+  width: 95%;
+  object-fit: cover;
+}
